@@ -170,3 +170,6 @@ test1:(2013, 'Lost connection to MySQL server during query ([WinError 10060] 由
 insert into gptest(name) values('gaopeng31');
 insert into gptest(name) values('gaopeng32');
 insert into gptest(name) values('gaopeng33');
+
+
+微信:gp_22389860
